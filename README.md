@@ -10,6 +10,7 @@ This script is developed and tested against vCD 9.0 and probably will not work w
 
 ### To do
 * Add option to save credentials in config.yaml
+* Verify correct username format
 * Add command line arguments options
 * Add option for creating directories based on date
 * Add support to push config files to a git repo?
